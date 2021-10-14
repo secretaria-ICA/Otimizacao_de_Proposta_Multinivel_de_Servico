@@ -1,4 +1,4 @@
-# Otimização de proposta multinível de serviço
+# Otimização_de_Proposta_Multinível_de_Serviço
 
 #### Aluno: [Raphael Faria Richter](https://github.com/richterraphael)
 #### Orientador(/a/es/as): [Felipe Borges](https://github.com/FelipeBorgesC).
